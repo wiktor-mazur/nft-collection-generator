@@ -1,0 +1,6 @@
+collections:
+  - name: example
+    layers:
+      - background
+      - shape
+      - text
